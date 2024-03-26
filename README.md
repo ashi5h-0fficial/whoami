@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ASHISH SONI @ashi5h745
+- 👋 Hi, I’m ASHISH SONI ..u_name:@ashi5h745
 - 👀 I’m interested in ... X and Y along with Coding :)
 - 🌱 I’m currently learning --> NEXT.js
 - 💞️ I’m looking to collaborate on --> MERN projects
