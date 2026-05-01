@@ -7,7 +7,7 @@
 <!--- - 💞️ I’m looking to collaborate on --> Automation projects
 <!--- - 📫 How to reach me --> ashish.aumca@gmail.com
 <!--- - 😄 Pronouns: --> He/Him
-<!--- - ⚡ Fun fact: --> Still searching... :)
+<!--- - ⚡ Fun fact: --> Still searching... :)   --->
 <!--- - Sb Sahi Hai Bio Me 😄
 --->
 
