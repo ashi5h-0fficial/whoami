@@ -1,4 +1,4 @@
-             ❣️ Welcome To Profile❣️
+<!---             ❣️ Welcome To Profile❣️
 ## View live preview [here](https://my-port-folio-2-0.vercel.app/).
 - 👋 Hi, I’m ASHISH SONI 😘Smart boy😄 ‼️code Lover🔣
 - 🧗M000dy🧒 🎉My Day 🎂 29 Aug🎂   
@@ -9,6 +9,7 @@
 - 😄 Pronouns: --> He/Him
 - ⚡ Fun fact: --> Still searching... :)
 - Sb Sahi Hai Bio Me 😄
+--->
 
 <!---
 ashi5h745/ashi5h745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
