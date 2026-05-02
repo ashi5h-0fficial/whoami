@@ -1,4 +1,4 @@
-<div align="center">
+
           ❣️ Welcome To Profile❣️
 View live preview [here](https://my-port-folio-2-0.vercel.app/).
 - 👋 Hi, I’m ASHISH SONI 😘Smart boy😄 ‼️code Lover🔣
