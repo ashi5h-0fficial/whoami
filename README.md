@@ -1,5 +1,6 @@
 
           ❣️ Welcome To Profile❣️
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=ASHISH+DISCOVER+SELENIUM%21;ASHISH+HUNT+BUGS+%F0%9F%90%9B;AUTOMATION+GO+BRRR+%F0%9F%AA%A8;CODE+LOVER+%F0%9F%92%BE+SINCE+STONE+AGE" alt="Typing SVG" />
 View live preview [here](https://my-port-folio-2-0.vercel.app/).
 - 👋 Hi, I’m ASHISH SONI 😘Smart boy😄 ‼️code Lover🔣
 - 🧗M000dy🧒 🎉My Day 🎂 29 Aug🎂   
@@ -13,7 +14,7 @@ View live preview [here](https://my-port-folio-2-0.vercel.app/).
 
 ### 🪨 UGH. ASHISH MAKE FIRE. ASHISH MAKE CODE. 🔥
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=ASHISH+DISCOVER+SELENIUM%21;ASHISH+HUNT+BUGS+%F0%9F%90%9B;AUTOMATION+GO+BRRR+%F0%9F%AA%A8;CODE+LOVER+%F0%9F%92%BE+SINCE+STONE+AGE" alt="Typing SVG" />
+
 
 ---
 
