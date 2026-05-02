@@ -1,6 +1,6 @@
 <div align="center">
 ❣️ Welcome To Profile❣️<br>
-View live preview [here](https://my-port-folio-2-0.vercel.app/).
+View live preview here (https://my-port-folio-2-0.vercel.app/).
 
 ### 🪨 UGH. ASHISH MAKE FIRE. ASHISH MAKE CODE. 🔥
 
@@ -64,7 +64,7 @@ class CavemanDev:
 
 ---
 
-## 📊 CAVE PAINTINGS (aka GitHub Stats)
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -115,7 +115,7 @@ class CavemanDev:
 
 *🪨 "Code is like stone — chip away the unnecessary bits and something beautiful emerges."*
 
-**— Ashish Soni, Code Caveman, circa 2025**
+**— Ashish Soni, Code, circa 2025**
 
 ```
    (\ /)
